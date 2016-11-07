@@ -7,7 +7,7 @@ permalink: /:title.html
 port: 4000
 safe: true
 url: http://avijit9.github.io/resume
-author: Fábio Madeira
+author: Avijit Dasgupta
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
